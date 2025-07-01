@@ -13,7 +13,7 @@ cd ljubljana_ml4physics_25
 pip install -r requirements.txt
 ```
 
-The notebooks are also available on Google Colab [here](https://drive.google.com/drive/folders/1067DxzSjhw8RohvDgGxElg2KZL-FLSig?usp=drive_link)
+The notebooks are also available on Google Colab [here](https://drive.google.com/drive/folders/12L2oy1cWY0QkBJz7hg1NCta15Tt42pck?usp=drive_link)
 
 ## Useful code
 The `src` directory contains useful code for the exercise session. 
