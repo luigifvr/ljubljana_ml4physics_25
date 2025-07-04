@@ -33,3 +33,7 @@ Besides the concrete application, scattering amplitudes are a solid playground f
 Their prediction from first principles is very well-understood and, moreover, the regressed observable $A$ has no 
 intrinsic noise. This means we can add our own noise to the regression problem and test the faithfullness of the learned
 uncertainties.
+
+## Notes
+Some notes on the content of the two theory lectures are now available in `notes`.
+The document is in continuous development. Feel free to [contact](https://cp3.irmp.ucl.ac.be/public/member/808) me for error reports and clarity improvements.
